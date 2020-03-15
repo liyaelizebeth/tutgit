@@ -1,4 +1,5 @@
 topics learned from first tutorial and unicorn
+newunicorn
 
 git
 github
@@ -6,4 +7,5 @@ github login
 repository
 commit
 unicorn
+merge
 
